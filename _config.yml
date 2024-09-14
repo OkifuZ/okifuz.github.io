@@ -1,6 +1,7 @@
 title: Siyan Zhu
-logo: /assets/img/logo.png
-description: Master's student at Beihang University
+logo: /assets/img/me3.jpg
+description:
+# description: Master's student at Beihang University
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
