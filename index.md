@@ -14,26 +14,29 @@ Besides, I'm passionate about game development, seeking to bridge the gap betwee
 
 
 Efficient frictional contacts for soft body dynamics via ADMM. Siyan Zhu, Cheng Fang, Peng Yu, Xiao Zhai, Aimin Hao & Junjun Pan. The Visual Computer, 2024. 
-[DOI](https://doi.org/10.1007/s00371-024-03438-8) [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ).
+[DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ).
 
 
 # Experience
 
 - NetEase Games. Shanghai, 09.2024 - 11.2024. 
+  
   Game Engine Development Intern. 
+  
   Topics: advanced physics destruction with UE5 Chaos.
 
 - Tencent IEG Morefun Studio. Shenzhen, 05.2024 - 08.2024
+  
   Game Engine Development Intern.
+  
   Content: Performance analysis and optimization of Unity dynamic bones and cloth plugin, improvement of Effects. Implementing Deformed snow effect. FFT Image Processing using Compute Shaders.
 
 - miHoYo, Lumi. Shanghai, 06.2023 - 08.2023. 
+  
   Cloth Simulation Research Intern.
+  
   Topics: Using model dimensionality reduction and neural networks to accelerate high-precision cloth simulation, exploring its application in games.
 
-
-
-# Projects
 
 
 # Contact
