@@ -12,7 +12,7 @@ Besides, I'm passionate about game development, seeking to bridge the gap betwee
 # Publication
 
 
-Efficient frictional contacts for soft body dynamics via ADMM. Siyan Zhu, Cheng Fang, Peng Yu, Xiao Zhai, Aimin Hao & Junjun Pan. The Visual Computer, 2024. 
+Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Cheng Fang, [Peng Yu](https://yupengvr.github.io), [Xiao Zhai](https://zhai-xiao.github.io/), Aimin Hao & [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). The Visual Computer, 2024. 
 [DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ).
 
 
