@@ -20,7 +20,7 @@ Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Ch
 
 - NetEase Games. Shanghai, 09.2024 - 11.2024. 
   *Game Engine Development Intern*. 
-  Topics: advanced physics destruction with UE5 Chaos.
+  Topics: advanced physics destruction with UE5 Chaos. (Expected)
 
 - Tencent IEG, Morefun Studio. Shenzhen, 05.2024 - 08.2024
   *Game Engine Development Intern*.
