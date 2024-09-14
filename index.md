@@ -9,26 +9,26 @@ Besides, I'm passionate about game development, seeking to bridge the gap betwee
 
 
 
-# Publication
+## Publication
 
 
 Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Cheng Fang, [Peng Yu](https://yupengvr.github.io), [Xiao Zhai](https://zhai-xiao.github.io/), Aimin Hao & [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). The Visual Computer, 2024. 
 [DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ).
 
 
-# Experience
+## Experience
 
 - NetEase Games. Shanghai, 09.2024 - 11.2024. 
   *Game Engine Development Intern*. 
   Topics: advanced physics destruction with UE5 Chaos.
 
-- Tencent IEG Morefun Studio. Shenzhen, 05.2024 - 08.2024
+- Tencent IEG, Morefun Studio. Shenzhen, 05.2024 - 08.2024
   *Game Engine Development Intern*.
-  Content: Performance analysis and optimization of Unity dynamic bones and cloth plugin, improvement of Effects. Implementing Deformed snow effect.
+  Topics: Performance analysis, optimization and effects improvement of Unity dynamic bones cloth plugin. Implementing Deformed snow effect.
 
 - miHoYo, Lumi. Shanghai, 06.2023 - 08.2023. 
   *Cloth Simulation Research Intern*.
-  Topics: Using model dimensionality reduction and neural networks to accelerate high-precision cloth simulation, exploring its application in games.
+  Topics: Acceleration of high-precision cloth simulation utilizing model dimensionality reduction and neural networks, exploring its application in games.
 
 
 
