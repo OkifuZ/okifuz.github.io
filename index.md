@@ -2,120 +2,39 @@
 layout: default
 ---
 
-I'm currently pursuing my Master's degree in Computer Science at Beihang University, advised by Prof. Junjun Pan, and anticipate graduation in 2025.
+I'm currently pursuing my Master's degree in Computer Science at Beihang University, advised by Prof. Junjun Pan, and anticipate graduation in 2025. Before that, I obtained my Bachelor's degree in Computer Science from Beihang University in 2022.
 
-My research interests lies in Computer Graphics $\rightarrow$ Physics Based Animation, which include collision handling for soft bodies and cloth, and leveraging AI to accelerate physical simulations. I'm passionate about game development and visual effects, seeking to bridge the gap between physics based animations and video games.
+My research interests lies in Computer Graphics, Physics Based Animation. Specifically, (a) collision handling for cloth, soft bodies and rigid bodies, (b) leveraging AI to accelerate physical simulations. 
 
-
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Besides, I'm passionate about game development, seeking to bridge the gap between physics based animations and video games.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+# Publication
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+Efficient frictional contacts for soft body dynamics via ADMM. Siyan Zhu, Cheng Fang, Peng Yu, Xiao Zhai, Aimin Hao & Junjun Pan. The Visual Computer, 2024. 
+[DOI](https://doi.org/10.1007/s00371-024-03438-8) [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ).
+
+
+# Experience
+
+- NetEase Games. Shanghai, 09.2024 - 11.2024. 
+  Game Engine Development Intern. 
+  Topics: advanced physics destruction with UE5 Chaos.
+
+- Tencent IEG Morefun Studio. Shenzhen, 05.2024 - 08.2024
+  Game Engine Development Intern.
+  Content: Performance analysis and optimization of Unity dynamic bones and cloth plugin, improvement of Effects. Implementing Deformed snow effect. FFT Image Processing using Compute Shaders.
+
+- miHoYo, Lumi. Shanghai, 06.2023 - 08.2023. 
+  Cloth Simulation Research Intern.
+  Topics: Using model dimensionality reduction and neural networks to accelerate high-precision cloth simulation, exploring its application in games.
+
+
+
+# Projects
+
+
+# Contact
+Email: siyanh [dot] zhu [at] gmail [dot] com
