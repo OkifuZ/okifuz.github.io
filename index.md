@@ -2,13 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm currently pursuing my Master's degree in Computer Science at Beihang University, advised by Prof. Junjun Pan, and anticipate graduation in 2025.
 
-<!-- [Link to another page](./another-page.html). -->
+My research interests lies in Computer Graphics $\rightarrow$ Physics Based Animation, which include collision handling for soft bodies and cloth, and leveraging AI to accelerate physical simulations. I'm passionate about game development and visual effects, seeking to bridge the gap between physics based animations and video games.
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
