@@ -2,12 +2,12 @@
 layout: default
 ---
 
-I'm currently pursuing my Master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), and anticipate graduation in 2025. Before that, I obtained my Bachelor's degree in CS from Beihang University in 2022.
+I'm currently pursuing my Master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), anticipate graduation in 2025. I obtained my Bachelor's degree in CS from Beihang University in 2022.
 
 My research interests lies in Computer Graphics, Physics Based Animation. Specifically, (a) fast collision handling (b) leveraging AI to accelerate physical animations. 
 Besides, I'm passionate about game development, seeking to bridge the gap between physics based animations and video games.
 
-
+Email: siyanh [dot] zhu [at] gmail [dot] com
 
 ## Publication
 
@@ -24,13 +24,10 @@ Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Ch
 
 - Tencent IEG, Morefun Studio. Shenzhen, 05.2024 - 08.2024
   *Game Engine Development Intern*.
-  Topics: Performance analysis, optimization and effects improvement of Unity dynamic bones cloth plugin. Implementing Deformed snow effect.
+  Topics: performance analysis, optimization and effects improvement of Unity dynamic bones/cloth plugin. Implementation of deformed snow utilizing SRP.
 
 - miHoYo, Lumi. Shanghai, 06.2023 - 08.2023. 
   *Cloth Simulation Research Intern*.
-  Topics: Acceleration of high-precision cloth simulation utilizing model dimensionality reduction and neural networks, exploring its application in games.
+  Topics: acceleration of high-precision cloth simulation utilizing model dimensionality reduction and neural networks, and its application in games.
 
 
-
-## Contact
-Email: siyanh [dot] zhu [at] gmail [dot] com
