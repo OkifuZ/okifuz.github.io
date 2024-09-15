@@ -30,4 +30,19 @@ Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Ch
   *Cloth Simulation Research Intern*.
   Topics: acceleration of high-precision cloth simulation utilizing model dimensionality reduction and neural networks, and its application in games.
 
+## Selected Projects
 
+- An interactive soft bodies solver (C++, oneTbb)
+  - A multi-threaded physics solver for soft bodies, supporting dense frictional contact between multi-layer fabrics.
+  - The solver is achieved within ADMM optimization framework, utilizing projected dynamics and projected Gauss-Seidel.
+  - Proximy query is implemented via BVH(embree) and root-parity CCD.
+  - [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ)
+
+- Simulator for soft tissue based on MPM with 2-level GPU acceleration (C++, CUDA)
+  - Simulator is achieved via explicit material point method, supporting multi-material, cutting and fracture.
+  - Using GPU SPGrid data structure to minimize the number of atomic operations for better performance.
+  
+- Blustoon! (Unity3D)
+  - [project link](github.com/OkifuZ/blustoon), [video link](www.youtube.com/watch?v=5yirauGsRxo)
+  - An independent game developed by me in 4 weeks, which stitches Animal Party and Splatoon to build a two-player party game.
+  - Highlights: active rigdoll, ink splashing and coloring.
