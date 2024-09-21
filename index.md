@@ -13,7 +13,7 @@ Email: siyanh [dot] zhu [at] gmail [dot] com
 
 
 Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Cheng Fang, Peng Yu, [Xiao Zhai](https://zhai-xiao.github.io/), Aimin Hao & [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). The Visual Computer, 2024. 
-[DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ), [Project](https://github.com/OkifuZ/admm-elasticity-contact-solver)..
+[DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ), [Project](https://github.com/OkifuZ/admm-elasticity-contact-solver).
 
 
 ## Experience
