@@ -1,11 +1,9 @@
----;
-layout: default
----
 
 I'm currently pursuing Master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), anticipate graduation in 2025. I obtained my Bachelor's degree in CS from Beihang University in 2022.
 
-My research interests lies in Computer Graphics, Physics Based Animation. Specifically, (a) fast collision handling (b) leveraging AI to accelerate physical animations. 
-Besides, I'm passionate about game development, seeking to bridge the gap between physics based animations and video games.
+My research interests lies in Computer Graphics, Physics Based Animation. Specifically, (a) fast collision handling, (b) leveraging AI to accelerate physical animations. 
+
+I'm a game developer, seeking to bridge the gap between physics and video games.
 
 Email: siyanh [dot] zhu [at] gmail [dot] com
 
@@ -20,7 +18,7 @@ Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Ch
 
 NetEase Games. Shanghai, 09.2024 - 11.2024(Expected). 
   *Game Engine Development Intern*. 
-  Topics: realtime **physics destruction** with UE5 Chaos. 
+  Topics: realtime large scale **physics destruction** with UE5 Chaos. 
 
 Tencent IEG, Morefun Studio. Shenzhen, 05.2024 - 08.2024
   *Game Engine Development Intern*.
