@@ -1,4 +1,4 @@
----
+---;
 layout: default
 ---
 
@@ -30,7 +30,7 @@ miHoYo, Lumi. Shanghai, 06.2023 - 08.2023.
   *Cloth Simulation Research Intern*.
   Topics: acceleration of high-precision **cloth simulation utilizing model order reduction(MOR) and neural networks**, and its application in games.
 
-## Selected Projects
+<!-- ## Selected Projects
 
 An interactive soft bodies solver (C++, oneTbb) [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ)
   - A multi-threaded physics solver for soft bodies, supporting dense frictional contact between multi-layer fabrics.
@@ -44,4 +44,4 @@ Simulator for soft tissue based on MPM with 2-level GPU acceleration (C++, CUDA)
   
 Blustoon! (Unity3D) [project](github.com/OkifuZ/blustoon), [video](www.youtube.com/watch?v=5yirauGsRxo)
   - An independent game developed by me in 4 weeks, which stitches Animal Party and Splatoon to build a two-player party game.
-  - Highlights: active rigdoll, ink splashing and coloring.
+  - Highlights: active rigdoll, ink splashing and coloring. -->
