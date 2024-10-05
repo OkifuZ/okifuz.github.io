@@ -22,7 +22,7 @@ NetEase Games. Shanghai, 09.2024 - 11.2024(Expected).
 
 Tencent IEG, Morefun Studio. Shenzhen, 05.2024 - 08.2024
   *Game Engine Development Intern*.
-  Topics: performance analysis, optimization and effects improvement of **Unity dynamic bones/cloth** plugin. Implementation of deformed snow effect utilizing SRP.
+  Topics: performance analysis, optimization and effects improvement of **dynamic bones/cloth** in unity. Implementation of deformed snow effect utilizing SRP.
 
 miHoYo, Lumi. Shanghai, 06.2023 - 08.2023. 
   *Cloth Simulation Research Intern*.
