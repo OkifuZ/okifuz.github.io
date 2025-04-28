@@ -1,7 +1,7 @@
 
 I'm currently pursuing Master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), anticipate graduation in 2025. I obtained my Bachelor's degree in CS from Beihang University in 2022.
 
-Seeking to bridge the gap between physics and video games, my research interests lies in Computer Graphics, Physics Based Animation. Specifically, (a) fast collision handling, (b) leveraging AI to accelerate physical animations. 
+My research interests lies in Computer Graphics, Physics Based Animation. Specifically, (a) fast collision handling, (b) real-time physical animations via neural networks or algorithm optimization. I want physics to be more integrated into video games, both for visual consumption and gameplay.
 
 Email: siyanh [dot] zhu [at] gmail [dot] com
 
@@ -11,13 +11,13 @@ Email: siyanh [dot] zhu [at] gmail [dot] com
 Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Cheng Fang, Peng Yu, [Xiao Zhai](https://zhai-xiao.github.io/), Aimin Hao & [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). The Visual Computer, 2024. 
 [DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ), [Project](https://github.com/OkifuZ/admm-elasticity-contact-solver).
 
-<!-- Enhanced Material Point Method with Affine Projection Stabilizer for Efficient Hyperelastic Simulations. Cheng Fang, **Siyan Zhu**， Junjun Pan. The Visual Computer, 2025. -->
+<!-- Enhanced Material Point Method with Affine Projection Stabilizer for Efficient Hyperelastic Simulations. Cheng Fang*, **Siyan Zhu***(*first co-author)， Junjun Pan. The Visual Computer, 2025. -->
 
 ## Experience
 
-Weta FX. Wellington, New Zealand 04.2025 - 07.2025(ing).
+Weta FX. Wellington, New Zealand, 04.2025 - 07.2025(ing).
   *Simulation Research Intern*.
-  Topics: Improving stability of cohesion modeling for hair and cloth. 
+  Topics: Improving stability of **cohesion modeling** for hair and cloth. 
 
 NetEase Games. Shanghai, 09.2024 - 11.2024. 
   *Game Engine Development Intern*. 
