@@ -1,7 +1,7 @@
 
-I'm currently pursuing Master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), anticipate graduation in 2025. I obtained my Bachelor's degree in CS from Beihang University in 2022.
+I got my master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, in 2025. Advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). I obtained my Bachelor's degree in CS from Beihang University in 2022.
 
-My research interests lie in Computer Graphics, Physics Based Animation.  I‘m particularly interested in fast collision handling, neural networks accelerated simulation and material point methods.
+My research interests lie in Computer Graphics, Physics Based Animation.  I‘m particularly interested in elasticity, fast collision handling and neural networks accelerated simulation.
 
 <!-- Physics shall be more involved in video games, both for visual consumption and gameplay. -->
 
@@ -14,8 +14,13 @@ Email: siyanh [dot] zhu [at] gmail [dot] com
 Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Cheng Fang, Peng Yu, [Xiao Zhai](https://zhai-xiao.github.io/), Aimin Hao & [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). The Visual Computer, 2024. 
 [DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ), [Project](https://github.com/OkifuZ/admm-elasticity-contact-solver).
 
+Enhanced material point method with affine projection stabilizer for efficient hyperelastic simulations. Fang C., **Zhu S.**(first co-author). Pan J.  The Visual Computer, 2025. [DOI](https://doi.org/10.1007/s00371-025-03953-2).
+
 
 ## Experience
+
+(Expected) Tencent Games, Morefun Studio. 
+Game Engine Dev. 08.2025
 
 Weta FX. Wellington, New Zealand, 04.2025 - 07.2025(ing).
   *Simulation Researcher Intern*.
@@ -23,7 +28,7 @@ Weta FX. Wellington, New Zealand, 04.2025 - 07.2025(ing).
 
 NetEase Games. Shanghai, 09.2024 - 11.2024. 
   *Game Engine Development Intern*. 
-  Topics: realtime large scale **physics destruction** with UE5 Chaos. 
+  Topics: realtime **physics destruction** in UE5 Chaos. 
 
 Tencent IEG, Morefun Studio. Shenzhen, 05.2024 - 08.2024
   *Game Engine Development Intern*.
