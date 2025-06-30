@@ -1,7 +1,10 @@
+I received my M.S. in Computer Science from the [VR lab](https://vrlab.buaa.edu.cn/) at Beihang University in 2025, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), and my B.S. in Computer Science from Beihang in 2022.
 
-I got my master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, in 2025. Advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). I obtained my Bachelor's degree in CS from Beihang University in 2022.
+My research focuses on Computer Graphics and Physics-Based Animation, particularly elasticity, fast collision handling, and neural-network-accelerated simulation.
 
-My research interests lie in Computer Graphics, Physics Based Animation.  I‘m particularly interested in elasticity, fast collision handling and neural networks accelerated simulation.
+<!-- I got my master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, in 2025. Advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). I obtained my Bachelor's degree in CS from Beihang University in 2022.
+
+My research interests lie in Computer Graphics, Physics Based Animation.  I‘m particularly interested in elasticity, fast collision handling and neural networks accelerated simulation. -->
 
 <!-- Physics shall be more involved in video games, both for visual consumption and gameplay. -->
 
@@ -19,7 +22,31 @@ Enhanced material point method with affine projection stabilizer for efficient h
 
 ## Experience
 
-(Expected) Tencent Games, Morefun Studio. 
+**Tencent Games – Morefun Studio**  
+*Game Engine Developer (Expected)*  
+Aug. 2025 -
+
+**Weta FX**, Wellington, New Zealand  
+*Simulation Researcher Intern*  
+Apr. 2025 – Jul. 2025 (Ongoing)  
+Topics: 1. Improving stability of cohesion modeling for hair and cloth in Loki. 2. Generalized ADMM solver.
+
+**NetEase Games**, Shanghai  
+*Game Engine Development Intern*  
+Sep. 2024 – Nov. 2024  
+Topics: Real-time physics destruction using UE5 Chaos.
+
+**Tencent IEG – Morefun Studio**, Shenzhen  
+*Game Engine Development Intern*  
+May 2024 – Aug. 2024  
+Topics: Performance analysis, optimization, and effects improvement of dynamic bones/cloth in Unity. 
+
+**miHoYo – Lumi**, Shanghai  
+*Cloth Simulation Researcher Intern*  
+Jun. 2023 – Aug. 2023  
+Topics: Acceleration of high-precision cloth simulation using model order reduction (MOR) and neural networks.
+
+<!-- (Expected) Tencent Games, Morefun Studio. 
 Game Engine Dev. 08.2025
 
 Weta FX. Wellington, New Zealand, 04.2025 - 07.2025(ing).
@@ -36,7 +63,7 @@ Tencent IEG, Morefun Studio. Shenzhen, 05.2024 - 08.2024
 
 miHoYo, Lumi. Shanghai, 06.2023 - 08.2023. 
   *Cloth Simulation Researcher Intern*.
-  Topics: acceleration of high-precision **cloth simulation utilizing model order reduction(MOR) and neural networks**, and its application in games.
+  Topics: acceleration of high-precision **cloth simulation utilizing model order reduction(MOR) and neural networks**, and its application in games. -->
 
 <!-- ## Selected Projects
 
