@@ -1,6 +1,6 @@
-I received my M.S. in Computer Science from the [VR lab](https://vrlab.buaa.edu.cn/) at Beihang University in 2025, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), and my B.S. in Computer Science from Beihang in 2022.
+I received my M.S. in Computer Science from the [VR lab](https://vrlab.buaa.edu.cn/) at Beihang University in 2025, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), and B.S. in Computer Science from Beihang in 2022.
 
-My research focuses on Computer Graphics and Physics-Based Animation, particularly elasticity, fast collision handling, and neural-network-accelerated simulation.
+My research interest focuses on Physics-Based Animation for Computer Graphics, particularly elasticity, fast collision handling, and neural-network-accelerated simulation.
 
 <!-- I got my master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, in 2025. Advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). I obtained my Bachelor's degree in CS from Beihang University in 2022.
 
@@ -12,29 +12,27 @@ Email: siyanh [dot] zhu [at] gmail [dot] com
 
 ## Publication
 
-<!-- Enhanced Material Point Method with Affine Projection Stabilizer for Efficient Hyperelastic Simulations. *Cheng Fang*, ***Siyan Zhu***(first co-author)， Junjun Pan. CGI 2025(The Visual Computer Track). -->
+Enhanced material point method with affine projection stabilizer for efficient hyperelastic simulations. *Cheng Fang*, ***Siyan Zhu***(first co-author) & [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan).  The Visual Computer, 2025. (CGI 2025 Second Best Paper Award). [DOI](https://doi.org/10.1007/s00371-025-03953-2).
 
 Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Cheng Fang, Peng Yu, [Xiao Zhai](https://zhai-xiao.github.io/), Aimin Hao & [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). The Visual Computer, 2024. 
-[DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ), [Project](https://github.com/OkifuZ/admm-elasticity-contact-solver).
-
-Enhanced material point method with affine projection stabilizer for efficient hyperelastic simulations. Fang C., **Zhu S.**(first co-author). Pan J.  The Visual Computer, 2025. [DOI](https://doi.org/10.1007/s00371-025-03953-2).
+[DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ)
 
 
 ## Experience
 
 **Tencent Games – Morefun Studio**  
-*Game Engine Developer (Expected)*  
-Aug. 2025 -
+*Game Engine Developer*  
+Aug. 2025 - Present
 
 **Weta FX**, Wellington, New Zealand  
 *Simulation Researcher Intern*  
-Apr. 2025 – Jul. 2025 (Ongoing)  
-Topics: 1. Improving stability of cohesion modeling for hair and cloth in Loki. 2. Generalized ADMM solver.
+Apr. 2025 – Jul. 2025 
+Topics: Cohesion Modeling and Elastic Solver in [Loki](https://dl.acm.org/doi/abs/10.1145/3528223.3530058).
 
-**NetEase Games**, Shanghai  
+**NetEase Games**, Shanghai (奇点事业部)  
 *Game Engine Development Intern*  
 Sep. 2024 – Nov. 2024  
-Topics: Real-time physics destruction using UE5 Chaos.
+Topics: Real-time physics destruction in UE5 Chaos.
 
 **Tencent IEG – Morefun Studio**, Shenzhen  
 *Game Engine Development Intern*  
@@ -44,7 +42,7 @@ Topics: Performance analysis, optimization, and effects improvement of dynamic b
 **miHoYo – Lumi**, Shanghai  
 *Cloth Simulation Researcher Intern*  
 Jun. 2023 – Aug. 2023  
-Topics: Acceleration of high-precision cloth simulation using model order reduction (MOR) and neural networks.
+Topics: Acceleration of high-res cloth simulation using model order reduction (MOR) and neural networks.
 
 <!-- (Expected) Tencent Games, Morefun Studio. 
 Game Engine Dev. 08.2025
