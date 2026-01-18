@@ -1,3 +1,8 @@
+---
+title: Siyan Zhu | Game Engine Dev
+description: Game Engine Developer specializing in real-time physics simulation and Computer Graphics. 
+---
+
 I received my M.S. in Computer Science from the [VR lab](https://vrlab.buaa.edu.cn/) at Beihang University in 2025, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), and B.S. in Computer Science from Beihang in 2022.
 
 My research interest focuses on Physics-Based Animation for Computer Graphics, particularly elasticity, fast collision handling, and neural-network-accelerated simulation.
