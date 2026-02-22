@@ -3,9 +3,9 @@ title: Siyan Zhu | Game Engine Dev
 description: Game Engine Developer specializing in real-time physics simulation and Computer Graphics. 
 ---
 
-I received my M.S. in Computer Science from the [VR lab](https://vrlab.buaa.edu.cn/) at Beihang University in 2025, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan), and B.S. in Computer Science from Beihang in 2022.
+I got my M.S. (2025) and B.S. (2022) in Computer Science from the [VR lab](https://vrlab.buaa.edu.cn/) at Beihang University, advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). 
 
-My research interest focuses on Physics-Based Animation for Computer Graphics, particularly elasticity, fast collision handling, and neural-network-accelerated simulation.
+My research focuses on Physics-Based Animation for Computer Graphics on compute-limited devices, particularly elasticity (cloth simulation), fast collision handling, and neural-network-accelerated simulation.
 
 <!-- I got my master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, in 2025. Advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). I obtained my Bachelor's degree in CS from Beihang University in 2022.
 
@@ -25,7 +25,7 @@ Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Ch
 
 ## Experience
 
-**Tencent Games – Morefun Studio**  
+**Tencent – Morefun Studios**, Shenzhen 
 *Game Engine Developer*  
 Aug. 2025 - Present
 
@@ -34,12 +34,12 @@ Aug. 2025 - Present
 Apr. 2025 – Jul. 2025 
 Topics: Cohesion Modeling and Elastic Solver in [Loki](https://dl.acm.org/doi/abs/10.1145/3528223.3530058).
 
-**NetEase Games**, Shanghai (奇点事业部)  
+**NetEase Games**, Shanghai
 *Game Engine Development Intern*  
 Sep. 2024 – Nov. 2024  
 Topics: Real-time physics destruction in UE5 Chaos.
 
-**Tencent IEG – Morefun Studio**, Shenzhen  
+**Tencent – Morefun Studios**, Shenzhen  
 *Game Engine Development Intern*  
 May 2024 – Aug. 2024  
 Topics: Performance analysis, optimization, and effects improvement of dynamic bones/cloth in Unity. 
