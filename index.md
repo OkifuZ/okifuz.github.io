@@ -1,5 +1,5 @@
 ---
-title: Siyan Zhu | Game Engine Dev
+title: Siyan Zhu | Game Engine Dev & Physics Simulation
 description: Game Engine Developer specializing in real-time physics simulation and Computer Graphics. 
 ---
 
