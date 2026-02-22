@@ -25,7 +25,7 @@ Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Ch
 
 ## Experience
 
-**Tencent – Morefun Studios**, Shenzhen 
+**Tencent – Morefun Studios**, Shenzhen  
 *Game Engine Developer*  
 Aug. 2025 - Present
 
