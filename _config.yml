@@ -5,3 +5,7 @@ description: Game Engine Dev
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+url: "https://okifuz.github.io"
+
+plugins:
+  - jekyll-sitemap
