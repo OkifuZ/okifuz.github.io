@@ -9,6 +9,3 @@ url: "https://okifuz.github.io"
 
 exclude:
   - docs
-
-plugins:
-  - jekyll-sitemap
