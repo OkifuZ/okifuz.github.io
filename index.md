@@ -18,6 +18,9 @@ Email: siyanh [dot] zhu [at] gmail [dot] com
 
 ## Publication
 
+DIQ-MPM: Dual Interface Quadrature MPM for Simulating Large Deformation and Fluid-Solid Coupling. Kangrui Zhang, Ruihong Cen, Siyan Zhu, Ruoyan Chen, Bo Ren. 
+IEEE Transactions on Visualization and Computer Graphics, 2026
+
 Enhanced material point method with affine projection stabilizer for efficient hyperelastic simulations. *Cheng Fang*, ***Siyan Zhu***(first co-author) & [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan).  The Visual Computer, 2025. (CGI 2025 Second Best Paper Award). [DOI](https://doi.org/10.1007/s00371-025-03953-2).
 
 Efficient frictional contacts for soft body dynamics via ADMM. **Siyan Zhu**, Cheng Fang, Peng Yu, [Xiao Zhai](https://zhai-xiao.github.io/), Aimin Hao & [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). The Visual Computer, 2024. 
