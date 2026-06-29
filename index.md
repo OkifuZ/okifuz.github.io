@@ -24,39 +24,32 @@ Kangrui Zhang, Ruihong Cen, **Siyan Zhu**, Ruoyan Chen, Bo Ren.
 
 Enhanced material point method with affine projection stabilizer for efficient hyperelastic simulations.  
 Cheng Fang, **Siyan Zhu** (co-first author), [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan).  
-*The Visual Computer*, 2025. (CGI 2025 Second Best Paper Award).  
-[DOI](https://doi.org/10.1007/s00371-025-03953-2)
+*The Visual Computer*, 2025. (CGI 2025 Second Best Paper Award). [DOI](https://doi.org/10.1007/s00371-025-03953-2)
 
 Efficient frictional contacts for soft body dynamics via ADMM.  
 **Siyan Zhu**, Cheng Fang, Peng Yu, [Xiao Zhai](https://zhai-xiao.github.io/), Aimin Hao, [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan).  
-*The Visual Computer*, 2024.  
-[DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ)
+*The Visual Computer*, 2024. [DOI](https://doi.org/10.1007/s00371-024-03438-8), [Video](https://www.youtube.com/watch?v=rUBcgffdxtQ)
 
 
 ## Experience
 
-**Tencent – Morefun Studios**, Shenzhen  
-*Game Engine Developer*  
-Aug. 2025 - Present
+**Tencent – Morefun Studios**, Shenzhen, Aug. 2025 – Present  
+*Game Engine Developer*
 
-**Weta FX**, Wellington, New Zealand  
+**Weta FX**, Wellington, New Zealand, Apr. 2025 – Jul. 2025  
 *Simulation Researcher Intern*  
-Apr. 2025 – Jul. 2025 
 Topics: Cohesion Modeling and Elastic Solver in [Loki](https://dl.acm.org/doi/abs/10.1145/3528223.3530058).
 
-**NetEase Games**, Shanghai
+**NetEase Games**, Shanghai, Sep. 2024 – Nov. 2024  
 *Game Engine Development Intern*  
-Sep. 2024 – Nov. 2024  
 Topics: Real-time physics destruction in UE5 Chaos.
 
-**Tencent – Morefun Studios**, Shenzhen  
+**Tencent – Morefun Studios**, Shenzhen, May 2024 – Aug. 2024  
 *Game Engine Development Intern*  
-May 2024 – Aug. 2024  
-Topics: Performance analysis, optimization, and effects improvement of dynamic bones/cloth in Unity. 
+Topics: Performance analysis, optimization, and effects improvement of dynamic bones/cloth in Unity.
 
-**miHoYo – Lumi**, Shanghai  
+**miHoYo – Lumi**, Shanghai, Jun. 2023 – Aug. 2023  
 *Cloth Simulation Researcher Intern*  
-Jun. 2023 – Aug. 2023  
 Topics: Acceleration of high-res cloth simulation using model order reduction (MOR) and neural networks.
 
 <!-- (Expected) Tencent Games, Morefun Studio. 

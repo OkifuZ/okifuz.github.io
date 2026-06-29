@@ -53,12 +53,22 @@ header h1 a:hover, header h1 a:focus {
   text-decoration:none;
 }
 
+.view {
+  font-size:15px;
+  line-height:1.7;
+}
+
+.view a + a {
+  margin-left:2px;
+}
+
 .blog-link {
-  margin-top:4px;
+  margin-top:10px;
 }
 
 .blog-link a {
-  font-size:18px;
+  font-size:20px;
+  font-weight:500;
 }
 
 a small {
@@ -73,7 +83,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:1010px;
+  width:960px;
   margin:0 auto;
 }
 
@@ -203,7 +213,7 @@ strong {
 }
 
 section {
-  width:650px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
@@ -227,7 +237,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 1110px) {
+@media print, screen and (max-width: 1060px) {
 
   div.wrapper {
     width:auto;
