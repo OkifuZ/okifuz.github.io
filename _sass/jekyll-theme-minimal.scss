@@ -10,7 +10,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#1a1a1a;
+  letter-spacing:-0.01em;
   margin:0 0 20px;
 }
 
@@ -27,30 +28,45 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#1a1a1a;
+  font-weight:600;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#262626;
 }
 
 a {
-  color:#346d62;
+  color:#3a4a52;
   text-decoration:none;
+  border-bottom:1px solid #cfd5d8;
 }
 
 a:hover, a:focus {
-  color:#234a43;
-  text-decoration:underline;
+  color:#1a1a1a;
+  border-bottom-color:#1a1a1a;
+  text-decoration:none;
 }
 
 header h1 a {
-  color:#222;
+  color:#1a1a1a;
+  border-bottom:none;
 }
 
 header h1 a:hover, header h1 a:focus {
-  color:#222;
+  color:#1a1a1a;
+  border-bottom:none;
   text-decoration:none;
+}
+
+.view a, .blog-link a {
+  border-bottom:none;
+}
+
+.view a:hover, .blog-link a:hover {
+  border-bottom:none;
+  text-decoration:underline;
+  text-underline-offset:3px;
 }
 
 .view {
