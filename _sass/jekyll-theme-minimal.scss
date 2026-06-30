@@ -331,90 +331,124 @@ footer {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color:#121212;
-    color:#c8c8c8;
-  }
+html[data-theme="dark"] body {
+  background-color:#121212;
+  color:#c8c8c8;
+}
 
-  h1, h2, h3, h4, h5, h6 {
-    color:#e6dcc4;
-  }
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color:#e6dcc4;
+}
 
-  h2 {
-    color:#e6dcc4;
-    border-bottom-color:#2a2a2a;
-  }
+html[data-theme="dark"] h2 {
+  border-bottom-color:#2a2a2a;
+}
 
-  h3, h4, h5, h6 {
-    color:#e6dcc4;
-  }
+html[data-theme="dark"] a {
+  color:#c9a86a;
+  border-bottom-color:#3a342a;
+}
 
-  a {
-    color:#c9a86a;
-    border-bottom-color:#3a342a;
-  }
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] a:focus {
+  color:#e0c285;
+  border-bottom-color:#e0c285;
+}
 
-  a:hover, a:focus {
-    color:#e0c285;
-    border-bottom-color:#e0c285;
-  }
+html[data-theme="dark"] header h1 a,
+html[data-theme="dark"] header h1 a:hover,
+html[data-theme="dark"] header h1 a:focus {
+  color:#e6dcc4;
+}
 
-  header h1 a,
-  header h1 a:hover,
-  header h1 a:focus {
-    color:#e6dcc4;
-  }
+html[data-theme="dark"] strong {
+  color:#e6dcc4;
+}
 
-  strong {
-    color:#e6dcc4;
-  }
+html[data-theme="dark"] header p,
+html[data-theme="dark"] header p a {
+  color:#a8a8a8;
+}
 
-  header p, header p a {
-    color:#a8a8a8;
-  }
+html[data-theme="dark"] small {
+  color:#888;
+}
 
-  small {
-    color:#888;
-  }
+html[data-theme="dark"] blockquote {
+  color:#a8a8a8;
+  border-left-color:#2a2a2a;
+}
 
-  blockquote {
-    color:#a8a8a8;
-    border-left-color:#2a2a2a;
-  }
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre {
+  color:#d4d4d4;
+}
 
-  code, pre {
-    color:#d4d4d4;
-  }
+html[data-theme="dark"] pre {
+  background:#1a1a1a;
+  border-color:#2a2a2a;
+  box-shadow:none;
+}
 
-  pre {
-    background:#1a1a1a;
-    border-color:#2a2a2a;
-    box-shadow:none;
-  }
+html[data-theme="dark"] pre code {
+  color:#d4d4d4;
+  background-color:transparent;
+}
 
-  pre code {
-    color:#d4d4d4;
-    background-color:transparent;
-  }
+html[data-theme="dark"] code {
+  background-color:#1a1a1a;
+}
 
-  code {
-    background-color:#1a1a1a;
-  }
+html[data-theme="dark"] table th,
+html[data-theme="dark"] table td {
+  border-color:#2a2a2a;
+}
 
-  table th, table td {
-    border-color:#2a2a2a;
-  }
+html[data-theme="dark"] th,
+html[data-theme="dark"] dt {
+  color:#e6dcc4;
+}
 
-  th {
-    color:#e6dcc4;
-  }
+html[data-theme="dark"] hr {
+  background:#2a2a2a;
+}
 
-  dt {
-    color:#e6dcc4;
-  }
+.theme-toggle {
+  position:fixed;
+  top:18px;
+  right:18px;
+  width:36px;
+  height:36px;
+  padding:0;
+  border:1px solid #d8dbdd;
+  border-radius:50%;
+  background:#fff;
+  color:#3a4a52;
+  font-size:16px;
+  line-height:34px;
+  text-align:center;
+  cursor:pointer;
+  z-index:100;
+  transition:background-color 0.2s, color 0.2s, border-color 0.2s;
+}
 
-  hr {
-    background:#2a2a2a;
-  }
+.theme-toggle:hover {
+  border-color:#3a4a52;
+  color:#1a1a1a;
+}
+
+html[data-theme="dark"] .theme-toggle {
+  background:#1a1a1a;
+  border-color:#2a2a2a;
+  color:#c9a86a;
+}
+
+html[data-theme="dark"] .theme-toggle:hover {
+  border-color:#c9a86a;
+  color:#e0c285;
 }

@@ -12,8 +12,78 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    <script>
+      (function() {
+        var stored = localStorage.getItem('theme');
+        var resolved;
+        if (stored === 'dark' || stored === 'light') {
+          resolved = stored;
+        } else {
+          resolved = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        document.documentElement.setAttribute('data-theme', resolved);
+      })();
+    </script>
   </head>
   <body>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle theme" title="Toggle theme"></button>
+    <script>
+      (function() {
+        var btn = document.getElementById('theme-toggle');
+        var sunIcon = '\u263C';
+        var moonIcon = '\u263D';
+        var autoIcon = '\u25D1';
+
+        function render() {
+          var stored = localStorage.getItem('theme');
+          if (stored === 'light') {
+            btn.textContent = sunIcon;
+          } else if (stored === 'dark') {
+            btn.textContent = moonIcon;
+          } else {
+            btn.textContent = autoIcon;
+          }
+        }
+
+        function apply() {
+          var stored = localStorage.getItem('theme');
+          var resolved;
+          if (stored === 'dark' || stored === 'light') {
+            resolved = stored;
+          } else {
+            resolved = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          }
+          document.documentElement.setAttribute('data-theme', resolved);
+        }
+
+        btn.addEventListener('click', function() {
+          var stored = localStorage.getItem('theme');
+          var next;
+          if (stored === 'light') {
+            next = 'dark';
+          } else if (stored === 'dark') {
+            next = null;
+          } else {
+            next = 'light';
+          }
+          if (next === null) {
+            localStorage.removeItem('theme');
+          } else {
+            localStorage.setItem('theme', next);
+          }
+          apply();
+          render();
+        });
+
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
+          if (!localStorage.getItem('theme')) {
+            apply();
+          }
+        });
+
+        render();
+      })();
+    </script>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
