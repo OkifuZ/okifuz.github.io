@@ -32,52 +32,26 @@
         var btn = document.getElementById('theme-toggle');
         var sunIcon = '\u263C';
         var moonIcon = '\u263D';
-        var autoIcon = '\u25D1';
 
-        function render() {
-          var stored = localStorage.getItem('theme');
-          if (stored === 'light') {
-            btn.textContent = sunIcon;
-          } else if (stored === 'dark') {
-            btn.textContent = moonIcon;
-          } else {
-            btn.textContent = autoIcon;
-          }
+        function current() {
+          return document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
         }
 
-        function apply() {
-          var stored = localStorage.getItem('theme');
-          var resolved;
-          if (stored === 'dark' || stored === 'light') {
-            resolved = stored;
-          } else {
-            resolved = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-          }
-          document.documentElement.setAttribute('data-theme', resolved);
+        function render() {
+          btn.textContent = current() === 'dark' ? sunIcon : moonIcon;
         }
 
         btn.addEventListener('click', function() {
-          var stored = localStorage.getItem('theme');
-          var next;
-          if (stored === 'light') {
-            next = 'dark';
-          } else if (stored === 'dark') {
-            next = null;
-          } else {
-            next = 'light';
-          }
-          if (next === null) {
-            localStorage.removeItem('theme');
-          } else {
-            localStorage.setItem('theme', next);
-          }
-          apply();
+          var next = current() === 'dark' ? 'light' : 'dark';
+          localStorage.setItem('theme', next);
+          document.documentElement.setAttribute('data-theme', next);
           render();
         });
 
-        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
           if (!localStorage.getItem('theme')) {
-            apply();
+            document.documentElement.setAttribute('data-theme', e.matches ? 'dark' : 'light');
+            render();
           }
         });
 
