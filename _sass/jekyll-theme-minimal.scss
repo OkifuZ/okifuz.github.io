@@ -330,3 +330,91 @@ footer {
     color:#444;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color:#121212;
+    color:#c8c8c8;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color:#e6dcc4;
+  }
+
+  h2 {
+    color:#e6dcc4;
+    border-bottom-color:#2a2a2a;
+  }
+
+  h3, h4, h5, h6 {
+    color:#e6dcc4;
+  }
+
+  a {
+    color:#c9a86a;
+    border-bottom-color:#3a342a;
+  }
+
+  a:hover, a:focus {
+    color:#e0c285;
+    border-bottom-color:#e0c285;
+  }
+
+  header h1 a,
+  header h1 a:hover,
+  header h1 a:focus {
+    color:#e6dcc4;
+  }
+
+  strong {
+    color:#e6dcc4;
+  }
+
+  header p, header p a {
+    color:#a8a8a8;
+  }
+
+  small {
+    color:#888;
+  }
+
+  blockquote {
+    color:#a8a8a8;
+    border-left-color:#2a2a2a;
+  }
+
+  code, pre {
+    color:#d4d4d4;
+  }
+
+  pre {
+    background:#1a1a1a;
+    border-color:#2a2a2a;
+    box-shadow:none;
+  }
+
+  pre code {
+    color:#d4d4d4;
+    background-color:transparent;
+  }
+
+  code {
+    background-color:#1a1a1a;
+  }
+
+  table th, table td {
+    border-color:#2a2a2a;
+  }
+
+  th {
+    color:#e6dcc4;
+  }
+
+  dt {
+    color:#e6dcc4;
+  }
+
+  hr {
+    background:#2a2a2a;
+  }
+}
