@@ -8,8 +8,6 @@ I am Siyan Zhu (朱思延). I received my M.S. (2025) and B.S. (2022) in Compute
 
 My research focuses on physics-based animation for computer graphics on compute-limited devices, particularly elasticity (cloth simulation), fast collision handling, and neural-network-accelerated simulation.
 
-<p class="site-note">This is not a personal résumé; it is simply a personal website.</p>
-
 <!-- I got my master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, in 2025. Advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). I obtained my Bachelor's degree in CS from Beihang University in 2022.
 
 My research interests lie in Computer Graphics, Physics Based Animation.  I‘m particularly interested in elasticity, fast collision handling and neural networks accelerated simulation. -->
@@ -17,6 +15,8 @@ My research interests lie in Computer Graphics, Physics Based Animation.  I‘m 
 <!-- Physics shall be more involved in video games, both for visual consumption and gameplay. -->
 
 Email: siyanh [dot] zhu [at] gmail [dot] com
+
+<p class="site-note">This is not a résumé, but a personal website.</p>
 
 ## Publication
 
@@ -40,19 +40,19 @@ Efficient frictional contacts for soft body dynamics via ADMM.
 
 **Weta FX**, Wellington, New Zealand, Apr. 2025 – Jul. 2025  
 *Simulation Researcher Intern*  
-Topics: Cohesion Modeling and Elastic Solver in [Loki](https://dl.acm.org/doi/abs/10.1145/3528223.3530058).
+Topics: Improvements to the elastic solver in [Loki](https://dl.acm.org/doi/abs/10.1145/3528223.3530058).
 
 **NetEase Games**, Shanghai, Sep. 2024 – Nov. 2024  
 *Game Engine Development Intern*  
 Topics: Real-time physics destruction in UE5 Chaos.
 
-**Tencent – Morefun Studios**, Shenzhen, May 2024 – Aug. 2024  
+**Tencent Games**, Shenzhen, May 2024 – Aug. 2024  
 *Game Engine Development Intern*  
 Topics: Performance analysis, optimization, and effects improvement of dynamic bones/cloth in Unity.
 
-**miHoYo – Lumi**, Shanghai, Jun. 2023 – Aug. 2023  
+**miHoYo**, Shanghai, Jun. 2023 – Aug. 2023  
 *Cloth Simulation Researcher Intern*  
-Topics: Acceleration of high-res cloth simulation using model order reduction (MOR) and neural networks.
+Topics: Acceleration of high-res cloth simulation using MOR and neural networks.
 
 <!-- (Expected) Tencent Games, Morefun Studio. 
 Game Engine Dev. 08.2025
