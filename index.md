@@ -16,7 +16,7 @@ My research interests lie in Computer Graphics, Physics Based Animation.  I‘m 
 
 Email: siyanh [dot] zhu [at] gmail [dot] com
 
-<p class="site-note">This is not a résumé, but a personal website.</p>
+<p class="site-note">This is a personal website, not a résumé or position-seeking profile.</p>
 
 ## Publication
 
