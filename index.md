@@ -8,6 +8,8 @@ I am Siyan Zhu (朱思延). I received my M.S. (2025) and B.S. (2022) in Compute
 
 My research focuses on physics-based animation for computer graphics on compute-limited devices, particularly elasticity (cloth simulation), fast collision handling, and neural-network-accelerated simulation.
 
+<p class="site-note">This is not a personal résumé; it is simply a personal website.</p>
+
 <!-- I got my master's degree in CS at [VR lab](https://vrlab.buaa.edu.cn/), Beihang University, in 2025. Advised by Prof. [Junjun Pan](https://shi.buaa.edu.cn/junjun_pan). I obtained my Bachelor's degree in CS from Beihang University in 2022.
 
 My research interests lie in Computer Graphics, Physics Based Animation.  I‘m particularly interested in elasticity, fast collision handling and neural networks accelerated simulation. -->
